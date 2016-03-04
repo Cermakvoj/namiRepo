@@ -1,0 +1,2 @@
+# namiRepo
+Pokus o repozitář
